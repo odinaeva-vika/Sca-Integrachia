@@ -436,7 +436,7 @@ body {
   max-width: 614px;
   top: 110px;
   color: #FFFFFF;
-  z-index: 10;
+  z-index: 1;
 }
 
 .content-welcom__title {
